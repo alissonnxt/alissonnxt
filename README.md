@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 🇧🇷
 
-<!--
-**alissonnxt/alissonnxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alisson da Silva Pizani Pedro
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo
+
+alisson.pizani.pedro@escola.pr.gov.br
+
+@alisson
+
+![](https://media.tenor.com/Ds2HI7SbYREAAAAM/sports-goal.gif)
